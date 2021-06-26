@@ -14,7 +14,7 @@ Data Modeling: sklearn
 Others: datetime
 
 ## The analysis follows a CRISP-DM model
-![CRISP-DM Flow] (https://github.com/XHuang2046/Seattle_Airbnb_Data_Analysis/blob/1ae1b12467acfd0d916d5c1aad5285287336afd9/figures/CRISP-DM.JPG)
+![CRISP-DM Flow](https://github.com/XHuang2046/Seattle_Airbnb_Data_Analysis/blob/1ae1b12467acfd0d916d5c1aad5285287336afd9/figures/CRISP-DM.JPG?raw=True)
 ### 1. Business Understanding
 
 **Question 1:** What factors highly influence the prices?
